@@ -103,8 +103,9 @@ footer {
 }
 
 label {
-	font-family: 'Aril', sans-serif;
+	font-family: 'Arial', sans-serif;
 }
+
 #timer, #reset {
 	display: inline-block;
 	margin: 0 10px;
