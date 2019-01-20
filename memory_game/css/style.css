@@ -97,3 +97,28 @@ footer {
 	height: 0;
 	font-size: 0;
 }
+
+.hidden {
+	display: none;
+}
+
+label {
+	font-family: 'Aril', sans-serif;
+}
+#timer, #reset {
+	display: inline-block;
+	margin: 0 10px;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    border: #F15B31 solid 2px;
+    border-radius: 5%;
+}
+
+#reset:hover {
+	background-color: #F15B31;
+	color: #FFFFFF;
+	outline: none;
+}
